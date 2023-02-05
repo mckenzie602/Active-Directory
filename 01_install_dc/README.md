@@ -8,3 +8,5 @@
 2. Install the Active Directory Winodows Feature
 
 Install-WindowsFeature AD- Domain-Service -IncludeManagmentTools
+
+This is a test after setting up git
